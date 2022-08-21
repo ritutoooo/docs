@@ -16,7 +16,7 @@ TurboWarp will automatically store settings such as turbo mode, 60 FPS, high qua
 
 The `username` option controls the value of the username block.
 
-https://turbowarp.org/443603478?username=ExampleUsername
+https://turbowarp.org/443603478?username=user
 
 ## Cloud host {#cloud_host}
 
